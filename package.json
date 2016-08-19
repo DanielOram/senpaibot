@@ -1,0 +1,21 @@
+{
+  "name": "senpaibot",
+  "version": "1.0.0",
+  "description": "A simple Kohai who wants there senpai to notice them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "senpai",
+    "kohai",
+    "fbbot",
+    "bot",
+    "facebook",
+    "japan",
+    "weeb",
+    "otaku"
+  ],
+  "author": "Daniel Oram",
+  "license": "ISC"
+}
